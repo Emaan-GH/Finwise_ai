@@ -1,3 +1,5 @@
+🚀 **Live Demo:** [[Click Here to Access MediGuide AI Assistant](https://finwiseai-8o.streamlit.app/)]
+
 # FinWise AI
 
 An educational LangChain + Streamlit prototype for AI-powered personal
